@@ -1,0 +1,9 @@
+body{
+    background-color:gray;
+}
+
+@media ( max-width: 740px ) {
+    body {
+      background: green;
+    }
+}
