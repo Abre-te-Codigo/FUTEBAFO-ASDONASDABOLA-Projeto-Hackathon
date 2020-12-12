@@ -8,5 +8,5 @@ Inspirado no popular jogo do bafo, Futebafo é um jogo digital de coleção de f
 - [https://github.com/bwmsdroid/hackathon-futebafo](https://github.com/bwmsdroid/hackathon-futebafo)
 
 ## Vídeos 
-- [https://www.youtube.com/watch?v=2w8zyn9fOjc](https://www.youtube.com/watch?v=2w8zyn9fOjc)
-- [https://youtu.be/riwgkZdvZ_o](https://youtu.be/riwgkZdvZ_o)
+- Pitch [https://www.youtube.com/watch?v=2w8zyn9fOjc](https://www.youtube.com/watch?v=2w8zyn9fOjc)
+- Demo [https://youtu.be/riwgkZdvZ_o](https://youtu.be/riwgkZdvZ_o)
